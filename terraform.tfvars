@@ -1,0 +1,5 @@
+my_example-resources = "matetesttfresource"
+location = "westeurope"
+storage_account_name = "matetfac"
+container_name = "tfcontainer"
+blob_name = "tfblob"
